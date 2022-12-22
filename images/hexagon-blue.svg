@@ -1,0 +1,10 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <g transform="rotate(90 400 300)" opacity="0.7">
+   <title fill="#23719e">hexagon-orange</title>
+   <path fill="#23719e" d="m351.99999,305.15001c-1.6,-3.3 -1.6,-7.1 0,-10.4l19.5,-33.7c2,-3.1 5.3,-5 9,-5.2l39,0c3.7,0.2 7,2.1 9,5.2l19.5,33.8c1.6,3.3 1.6,7.1 0,10.4l-19.5,33.7c-2,3.1 -5.3,5 -9,5.2l-39,0c-3.7,-0.2 -7,-2.1 -9,-5.2l-19.5,-33.8z" class="st0"/>
+  </g>
+ </g>
+</svg>
